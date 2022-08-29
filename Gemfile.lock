@@ -10,7 +10,7 @@ GIT
       mime-types
 
 GIT
-  remote: https://github.com/Aarroyoco/Desafio_gestor_de_proyectos
+  remote: https://github.com/Rudeluy/Gestor-de-Proyectos
   revision: 486e0f0e93f3ca455d5d0fc7869053257b6afce2
   specs:
     nested_form (0.2.0)

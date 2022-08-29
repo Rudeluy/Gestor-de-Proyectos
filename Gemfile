@@ -14,7 +14,7 @@ gem 'mysql2', '~> 0.2.6'
 # gem 'capistrano'
 
 gem 'thin'
-gem "nested_form", :git => 'https://github.com/Aarroyoco/Desafio_gestor_de_proyectos.git'
+gem "nested_form", :git => 'https://github.com/Rudeluy/Gestor-de-Proyectos.git'
 gem 'rack-pjax'
 gem "paperclip", :git => "git://github.com/thoughtbot/paperclip.git"
 gem 'simple_form'
@@ -38,4 +38,3 @@ gem 'bson_ext'
 # group :development, :test do
 #   gem 'webrat'
 # end
-
